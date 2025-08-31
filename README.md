@@ -1,13 +1,5 @@
 # Nahuel Cerrano
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nahuel-cerrano">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Full Stack Developer** from Argentina, currently pursuing a degree in Systems Engineering. I specialize in building dynamic, user-focused web applications and desktop applications using modern technologies. With a strong foundation in both front-end and back-end development, as well as desktop app development with Windows Forms, I enjoy tackling complex challenges and delivering scalable solutions. My experience includes working on projects like e-commerce platforms, travel management systems, and Windows desktop applications, with a focus on clean code and agile methodologies.
@@ -23,21 +15,21 @@ I'm a passionate **Full Stack Developer** from Argentina, currently pursuing a d
 
 Here are some of my key projects showcasing my skills in web and desktop development:
 
-- **Ferretera Maxi**  
-  A full-stack e-commerce platform for a hardware store, built with **Django**, **MySQL**, and **React**. Features include product catalog management, user authentication, and a responsive UI.  
-  [View Repository](https://github.com/nahuelcerrano/ferretera-maxi) | [Live Demo](https://your-hosted-url.com)
-
 - **Viajecitos**  
-  A travel management web application developed with **Vue.js** and **Django**. Supports trip planning, booking, and user profiles with a focus on intuitive design and performance.  
-  [View Repository](https://github.com/nahuelcerrano/viajecitos)
+  A React-based travel e-commerce platform for booking trips, accommodations, and tour packages. Built with **React**, **Tailwind CSS**, **react-router-dom**, and **framer-motion**, it features a responsive SPA with mock data, context, and form handling using **react-hook-form**.  
+  [View Repository](https://github.com/nahuelcerrano/viajecitos-react)
 
-- **Task Manager**  
-  A task management app with **React** and **Tailwind CSS** for the front-end, integrated with a **Django** backend. Includes features like task creation, editing, and dynamic listing.  
-  [View Repository](https://github.com/nahuelcerrano/task-manager)
+- **Ferreteria Maxi**  
+  A full-stack e-commerce platform for a wholesale hardware store, managing sales representative orders. Developed with **Django**, **MySQL**, and a virtual environment setup, it includes user authentication and order management.  
+  [View Repository](https://github.com/nahuelcerrano/ferreteria_maxi)
 
-- **Inventory Desktop App**  
-  A desktop application for inventory management built with **C#** and **Windows Forms** using **Visual Studio 2022**. Features include item tracking, data entry forms, and a user-friendly interface for small businesses.  
-  [View Repository](https://github.com/nahuelcerrano/inventory-desktop-app)
+- **Todo App**  
+  A task management application built with **React** and **Vite**, featuring a minimal setup with HMR and ESLint. Supports dynamic task creation, editing, and listing with a focus on clean front-end development.  
+  [View Repository](https://github.com/nahuelcerrano/todo-app)
+
+- **Buscador Peliculas**  
+  A movie search application using the OMDB API, built with **React**. Features a responsive grid for displaying movie titles, years, and posters, with automatic search, debounce, and duplicate search prevention.  
+  [View Repository](https://github.com/nahuelcerrano/buscador-peliculas)
 
 ---
 
